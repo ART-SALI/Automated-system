@@ -1,0 +1,10 @@
+---start---
+id=0
+login=lib0
+password=000
+---end---
+---start---
+id=2
+login=lib2
+password=222
+---end---

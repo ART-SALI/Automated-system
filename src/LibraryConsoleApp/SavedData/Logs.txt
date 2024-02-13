@@ -1,0 +1,319 @@
+2024-01-07T23:41:21.991627200 | program started
+2024-01-07T23:41:23.584766100 | login of registred user
+2024-01-07T23:41:25.557017200 | user <id=10|123> entered the system
+2024-01-07T23:41:27.522795700 | program finished
+2024-01-08T00:09:35.604770800 | program started
+2024-01-08T00:09:43.191205 | login of registred user
+2024-01-08T00:09:45.986385300 | user <id=10|123> entered the system
+2024-01-08T00:09:47.326816500 | user <id=10|123> entered mein menu
+2024-01-08T00:09:48.785431700 | user <id=10|123> went to searching books
+2024-01-08T00:09:50.688616900 | user <id=10|123> started searching by name
+2024-01-08T00:09:58.062336 | user <id=10|123> entered mein menu
+2024-01-08T00:10:04.939638400 | user <id=10|123> went to exit
+2024-01-08T00:10:04.940639700 | program finished
+2024-01-08T01:48:27.034629100 | program started
+2024-01-08T01:48:29.470159300 | unregistered user is asked to be registred
+2024-01-08T01:48:31.714229 | unregistered user did not agree to be registred and is asked to login, register or exit
+2024-01-08T01:48:33.088839100 | unregistered user choose exit
+2024-01-08T01:48:33.089833800 | program finished
+2024-01-08T12:07:13.614387500 | program started
+2024-01-08T12:07:16.425377 | login of registred user
+2024-01-08T12:07:18.762720200 | user <id=10|123> entered the system
+2024-01-08T12:07:20.696118500 | user <id=10|123> entered mein menu
+2024-01-08T12:07:22.993392300 | user <id=10|123> went to searching books
+2024-01-08T12:07:25.013113600 | user <id=10|123> started searching by name
+2024-01-08T12:07:32.618844100 | user <id=10|123> entered mein menu
+2024-01-08T12:07:34.899509400 | user <id=10|123> went to exit
+2024-01-08T13:01:23.181065800 | program started
+2024-01-08T13:01:24.978612500 | login of registred user
+2024-01-08T13:01:29.006595 | user <id=10|123> entered the system
+2024-01-08T13:01:31.359181100 | user <id=10|123> entered mein menu
+2024-01-08T13:01:42.390364100 | user <id=10|123> went to personal cabinet
+2024-01-08T13:02:49.264247700 | program started
+2024-01-08T13:02:52.138129900 | something went wrong
+2024-01-08T13:02:59.230893200 | program started
+2024-01-08T13:03:01.101488 | login of registred user
+2024-01-08T13:03:03.166287300 | user <id=10|123> entered the system
+2024-01-08T13:03:04.161354700 | user <id=10|123> entered mein menu
+2024-01-08T13:03:06.145184700 | user <id=10|123> went to personal cabinet
+2024-01-08T13:03:14.765848200 | user <id=10|123> payed fine
+2024-01-08T13:12:06.903208100 | program started
+2024-01-08T13:12:08.950507200 | login of registred user
+2024-01-08T13:12:11.623263100 | user <id=10|123> entered the system
+2024-01-08T13:12:12.919933100 | user <id=10|123> entered mein menu
+2024-01-08T13:12:14.245947100 | user <id=10|123> went to personal cabinet
+2024-01-08T13:12:22.105180900 | user <id=10|123> payed fine
+2024-01-08T13:12:25.385893700 | user <id=10|123> entered mein menu
+2024-01-08T13:12:26.880538100 | user <id=10|123> went to personal cabinet
+2024-01-08T13:12:31.397418600 | user <id=10|123> entered mein menu
+2024-01-08T13:12:33.607876100 | user <id=10|123> went to exit
+2024-01-08T13:13:27.373816500 | program started
+2024-01-08T13:13:29.861909200 | login of registred user
+2024-01-08T13:13:31.912205300 | user <id=10|123> entered the system
+2024-01-08T13:13:33.102495600 | user <id=10|123> entered mein menu
+2024-01-08T13:13:35.794341700 | user <id=10|123> went to personal cabinet
+2024-01-08T13:13:38.413769600 | user <id=10|123> payed fine
+2024-01-08T13:13:40.995188900 | user <id=10|123> entered mein menu
+2024-01-08T13:13:41.677532900 | user <id=10|123> went to personal cabinet
+2024-01-08T13:13:44.373785900 | user <id=10|123> started changing login
+2024-01-08T13:13:47.124007 | user <id=10|321> changing login successfulLy
+2024-01-08T13:23:04.504788200 | program started
+2024-01-08T13:23:06.661355500 | login of registred user
+2024-01-08T13:23:08.308770600 | user <id=10|123> entered the system
+2024-01-08T13:23:09.366813600 | user <id=10|123> entered mein menu
+2024-01-08T13:23:10.681145 | user <id=10|123> went to personal cabinet
+2024-01-08T13:23:13.798905600 | user <id=10|123> payed fine
+2024-01-08T13:23:16.860966400 | user <id=10|123> entered mein menu
+2024-01-08T13:23:17.570758900 | user <id=10|123> went to personal cabinet
+2024-01-08T13:23:19.157971 | user <id=10|123> started changing login
+2024-01-08T13:23:20.754507100 | user <id=10|321> changing login successfulLy
+2024-01-08T13:26:36.173771200 | program started
+2024-01-08T13:26:39.348159100 | login of registred user
+2024-01-08T13:26:40.958914900 | user <id=10|123> entered the system
+2024-01-08T13:26:41.873239200 | user <id=10|123> entered mein menu
+2024-01-08T13:26:42.883095700 | user <id=10|123> went to personal cabinet
+2024-01-08T13:26:44.546550600 | user <id=10|123> payed fine
+2024-01-08T13:26:46.063078300 | user <id=10|123> entered mein menu
+2024-01-08T13:26:46.880294700 | user <id=10|123> went to personal cabinet
+2024-01-08T13:26:48.562788200 | user <id=10|123> started changing login
+2024-01-08T13:26:49.692692400 | user <id=10|321> changing login successfulLy
+2024-01-08T13:30:42.784295 | program started
+2024-01-08T13:30:44.852419 | login of registred user
+2024-01-08T13:30:47.640524700 | user <id=10|123> entered the system
+2024-01-08T13:30:48.812711400 | user <id=10|123> entered mein menu
+2024-01-08T13:30:49.656238500 | user <id=10|123> went to personal cabinet
+2024-01-08T13:30:50.822541600 | user <id=10|123> payed fine
+2024-01-08T13:30:51.913135 | user <id=10|123> entered mein menu
+2024-01-08T13:30:52.576349800 | user <id=10|123> went to personal cabinet
+2024-01-08T13:30:54.357257200 | user <id=10|123> started changing login
+2024-01-08T13:30:55.630914600 | user <id=10|321> changing login successfulLy
+2024-01-08T16:53:22.671813800 | program started
+2024-01-08T16:53:26.041963700 | login of registred user
+2024-01-08T16:53:29.830287900 | user <id=10|321> entered the system
+2024-01-08T16:53:39.517909 | user <id=10|321> entered mein menu
+2024-01-08T16:53:41.740378300 | user <id=10|321> went to searching books
+2024-01-08T16:53:43.583236600 | user <id=10|321> started searching by name
+2024-01-08T16:53:59.545493700 | user <id=10|321> entered mein menu
+2024-01-08T16:54:04.298070900 | user <id=10|321> went to order book
+2024-01-08T16:54:10.955213400 | user <id=10|321> went to catalog
+2024-01-08T16:54:10.982206300 | user <id=10|321> started watching catalog
+2024-01-08T16:54:20.011370500 | user <id=10|321> started watching catalog sorted by name
+2024-01-08T16:54:29.920035800 | user <id=10|321> started watching catalog sorted by dateOfPublication
+2024-01-08T17:03:22.770540600 | program started
+2024-01-08T17:03:25.171817700 | login of registred user
+2024-01-08T17:03:28.895765100 | user <id=10|321> entered the system
+2024-01-08T17:03:29.776294500 | user <id=10|321> entered mein menu
+2024-01-08T17:03:35.818277100 | user <id=10|321> went to order book
+2024-01-08T17:03:50.782765300 | user <id=10|321> went to catalog
+2024-01-08T17:03:50.791766600 | user <id=10|321> started watching catalog
+2024-01-08T17:03:53.123101 | user <id=10|321> started watching catalog sorted by dateOfPublication
+2024-01-08T17:05:04.638928100 | program started
+2024-01-08T17:05:07.045365800 | login of registred user
+2024-01-08T17:05:11.045698800 | user <id=10|321> entered the system
+2024-01-08T17:05:16.847949100 | user <id=10|321> entered mein menu
+2024-01-08T17:05:22.343836100 | user <id=10|321> went to order book
+2024-01-08T17:05:24.312945900 | user <id=10|321> went to catalog
+2024-01-08T17:05:24.323070700 | user <id=10|321> started watching catalog
+2024-01-08T17:05:27.807074100 | user <id=10|321> started watching catalog sorted by dateOfPublication
+2024-01-08T17:05:31.778944300 | user <id=10|321> gave bookId to order the book
+2024-01-08T17:05:33.722938100 | user <id=10|321> created order successfully
+2024-01-08T17:05:35.976971200 | user <id=10|321> went to main menu
+2024-01-08T17:05:35.977966700 | user <id=10|321> entered mein menu
+2024-01-08T17:05:37.340436 | something went wrong
+2024-01-08T17:05:37.348351 | something went wrong
+2024-01-08T17:32:20.773956800 | program started
+2024-01-08T17:32:26.899016 | login of registred user
+2024-01-08T17:32:31.931295300 | user <id=10|321> entered the system
+2024-01-08T17:34:30.260682800 | user <id=10|321> entered mein menu
+2024-01-08T17:34:41.675730500 | user <id=10|321> went to searching books
+2024-01-08T17:34:54.777355200 | user <id=10|321> started searching by name
+2024-01-08T17:36:41.656216500 | user <id=10|321> entered mein menu
+2024-01-08T17:36:45.910889600 | user <id=10|321> went to order book
+2024-01-08T17:38:22.556788100 | user <id=10|321> went to catalog
+2024-01-08T17:38:22.559788600 | user <id=10|321> started watching catalog
+2024-01-08T17:38:34.275619200 | user <id=10|321> started watching catalog sorted by name
+2024-01-08T17:38:44.055907400 | user <id=10|321> started watching catalog sorted by author
+2024-01-08T17:39:28.942169600 | something went wrong
+2024-01-10T22:50:08.690375200 | program started
+2024-01-10T22:50:12.835931300 | unregistered user is asked to be registred
+2024-01-10T22:50:13.983306200 | unregistered user did not agree to be registred and is asked to login, register or exit
+2024-01-10T22:50:15.339878500 | unregistered user choose exit
+2024-01-10T22:51:02.069051100 | program started
+2024-01-10T22:51:05.892350800 | unregistered user is asked to be registred
+2024-01-10T22:51:10.094527300 | something went wrong
+2024-01-10T22:51:19.494283200 | program started
+2024-01-10T22:51:21.171868900 | unregistered user is asked to be registred
+2024-01-10T22:51:22.733246400 | unregistered user agreed to be registred and start registration
+2024-01-10T22:51:27.956339200 | new user <id=11|1234> successfully registred and entered the system
+2024-01-10T22:51:27.977366500 | user <id=11|1234> entered mein menu
+2024-01-10T22:51:30.927525 | user <id=11|1234> went to exit
+2024-01-10T22:53:15.438643300 | program started
+2024-01-10T22:53:20.534370200 | unregistered user is asked to be registred
+2024-01-10T22:53:21.836706400 | unregistered user agreed to be registred and start registration
+2024-01-10T22:53:28.280187900 | new user <id=11|1234> successfully registred and entered the system
+2024-01-10T22:53:28.281188200 | user <id=11|1234> entered mein menu
+2024-01-10T22:53:30.471731300 | user <id=11|1234> went to exit
+2024-01-10T23:57:11.770710100 | program started
+2024-01-10T23:57:31.868143100 | unregistered user is asked to be registred
+2024-01-10T23:57:35.187224100 | unregistered user agreed to be registred and start registration
+2024-01-10T23:57:43.433098800 | new user <id=12|1234> successfully registred and entered the system
+2024-01-10T23:57:43.434100300 | user <id=12|1234> entered mein menu
+2024-01-10T23:57:46.313689800 | user <id=12|1234> went to searching books
+2024-01-10T23:57:49.764985400 | user <id=12|1234> started searching by name
+2024-01-10T23:57:59.618711900 | user <id=12|1234> entered mein menu
+2024-01-10T23:58:05.512016700 | user <id=12|1234> went to personal cabinet
+2024-01-11T00:01:15.043797900 | user <id=12|1234> entered mein menu
+2024-01-11T00:01:15.981932700 | user <id=12|1234> went to exit
+2024-01-11T23:34:53.126830700 | program started
+2024-01-11T23:34:56.117947900 | login of registred user
+2024-01-11T23:35:02.099722600 | Admin entered the system
+2024-01-11T23:42:23.073649800 | program started
+2024-01-11T23:42:24.930788100 | login of registred user
+2024-01-11T23:42:29.422969700 | Admin entered the system
+2024-01-11T23:48:30.303813100 | program started
+2024-01-11T23:48:31.800497700 | login of registred user
+2024-01-11T23:48:37.182829400 | Admin entered the system
+2024-01-11T23:49:10.534611800 | program started
+2024-01-11T23:49:13.542547700 | login of registred user
+2024-01-11T23:49:18.975733100 | Admin entered the system
+2024-01-11T23:50:47.948703600 | program started
+2024-01-11T23:50:49.994029400 | login of registred user
+2024-01-11T23:50:54.583499300 | Admin entered the system
+2024-01-11T23:56:31.614696300 | program started
+2024-01-11T23:56:34.386322500 | login of registred user
+2024-01-11T23:56:40.389937700 | Admin entered the system
+2024-01-11T23:58:35.528511200 | program started
+2024-01-11T23:58:37.714209600 | login of registred user
+2024-01-11T23:58:41.319915 | Admin entered the system
+2024-01-12T00:01:52.735203800 | program started
+2024-01-12T00:01:55.400070800 | login of registred user
+2024-01-12T00:01:59.989284700 | Admin entered the system
+2024-01-12T00:03:22.687848100 | program started
+2024-01-12T00:03:26.112672600 | login of registred user
+2024-01-12T00:03:32.836712 | Admin entered the system
+2024-01-12T00:36:16.263825800 | program started
+2024-01-12T00:36:17.637452200 | login of registred user
+2024-01-12T00:36:22.976245400 | Admin entered the system
+2024-01-12T00:37:26.527010500 | program started
+2024-01-12T00:37:29.542946100 | login of registred user
+2024-01-12T00:37:35.127209700 | Admin entered the system
+2024-01-12T00:39:52.073613400 | program started
+2024-01-12T00:39:53.543612300 | login of registred user
+2024-01-12T00:39:57.135412300 | Admin entered the system
+2024-01-12T00:40:33.965556 | program started
+2024-01-12T00:40:36.791098300 | login of registred user
+2024-01-12T00:40:40.565619900 | Admin entered the system
+2024-01-12T00:57:40.756703600 | program started
+2024-01-12T00:57:41.832656600 | login of registred user
+2024-01-12T00:57:45.178484600 | Admin entered the system
+2024-01-12T00:58:55.900499500 | program started
+2024-01-12T00:58:57.755770500 | login of registred user
+2024-01-12T00:59:03.356012300 | Admin entered the system
+2024-01-12T01:17:12.949387600 | program started
+2024-01-12T01:17:14.608028300 | login of registred user
+2024-01-12T01:17:20.595104300 | Admin entered the system
+2024-01-12T01:28:59.148455 | program started
+2024-01-12T01:29:00.303409900 | login of registred user
+2024-01-12T01:29:04.528136900 | Admin entered the system
+2024-01-12T02:41:10.465915600 | program started
+2024-01-12T02:41:13.860386800 | unregistered user is asked to be registred
+2024-01-12T02:41:16.759471 | unregistered user agreed to be registred and start registration
+2024-01-12T02:41:27.332853500 | new user <id=13|11111> successfully registred and entered the system
+2024-01-12T02:41:27.339855100 | user <id=13|11111> entered mein menu
+2024-01-12T02:41:32.106633100 | user <id=13|11111> went to searching books
+2024-01-12T02:41:36.179898200 | user <id=13|11111> started searching by name
+2024-01-12T02:41:46.503888800 | user <id=13|11111> entered mein menu
+2024-01-12T02:41:47.661115600 | user <id=13|11111> went to order book
+2024-01-12T02:41:49.962482600 | user <id=13|11111> started ordering the book by id
+2024-01-12T02:41:55.543094400 | user <id=13|11111> gave bookId to order the book
+2024-01-12T02:42:13.961041100 | user <id=13|11111> created order successfully
+2024-01-12T02:42:16.803480200 | user <id=13|11111> went to exit
+2024-01-12T02:42:21.134483300 | program started
+2024-01-12T02:42:23.690460200 | login of registred user
+2024-01-12T02:44:44.909656800 | program started
+2024-01-12T02:44:46.755955 | login of registred user
+2024-01-12T02:48:18.055501900 | program started
+2024-01-12T02:48:19.281413500 | login of registred user
+2024-01-12T02:51:15.194957800 | program started
+2024-01-12T02:51:17.274079700 | login of registred user
+2024-01-12T02:52:30.117016300 | program started
+2024-01-12T02:52:32.406764300 | login of registred user
+2024-01-12T02:53:29.612617900 | program started
+2024-01-12T02:53:33.643012100 | login of registred user
+2024-01-12T02:53:37.617926200 | Admin entered the system
+2024-01-12T02:55:38.064038500 | program started
+2024-01-12T02:55:39.587606600 | login of registred user
+2024-01-12T02:55:43.041807400 | Admin entered the system
+2024-01-12T02:58:37.800185400 | program started
+2024-01-12T02:58:41.703897200 | login of registred user
+2024-01-12T02:58:47.203300100 | Admin entered the system
+2024-01-12T03:00:32.796294800 | program started
+2024-01-12T03:00:34.476470600 | login of registred user
+2024-01-12T03:03:25.928734 | program started
+2024-01-12T03:03:27.623134800 | login of registred user
+2024-01-12T03:04:23.568770800 | program started
+2024-01-12T03:04:24.768423900 | login of registred user
+2024-01-12T03:05:34.867683600 | program started
+2024-01-12T03:05:38.902352800 | login of registred user
+2024-01-12T03:12:59.800816 | program started
+2024-01-12T03:13:01.799834700 | login of registred user
+2024-01-12T03:20:18.634632900 | program started
+2024-01-12T03:20:21.531959600 | login of registred user
+2024-01-12T03:22:59.333761900 | program started
+2024-01-12T03:23:01.745216200 | unregistered user is asked to be registred
+2024-01-12T03:23:03.720460400 | unregistered user agreed to be registred and start registration
+2024-01-12T03:23:11.092632800 | new user <id=13|123456> successfully registred and entered the system
+2024-01-12T03:23:11.094633400 | user <id=13|123456> entered mein menu
+2024-01-12T03:23:12.720915100 | user <id=13|123456> went to order book
+2024-01-12T03:23:16.614892900 | user <id=13|123456> went to catalog
+2024-01-12T03:23:16.624902 | user <id=13|123456> started watching catalog
+2024-01-12T03:23:18.814244500 | user <id=13|123456> started watching catalog sorted by name
+2024-01-12T03:23:28.705400800 | user <id=13|123456> gave bookId to order the book
+2024-01-12T03:23:30.256841900 | user <id=13|123456> created order successfully
+2024-01-12T03:23:31.986695600 | user <id=13|123456> went to main menu
+2024-01-12T03:23:31.986695600 | user <id=13|123456> entered mein menu
+2024-01-12T03:23:33.483384500 | user <id=13|123456> went to order book
+2024-01-12T03:23:37.221250100 | user <id=13|123456> started ordering the book by id
+2024-01-12T03:23:38.439561900 | user <id=13|123456> gave bookId to order the book
+2024-01-12T03:23:40.526636100 | user <id=13|123456> created order successfully
+2024-01-12T03:23:42.535329 | user <id=13|123456> went to exit
+2024-01-12T03:25:43.789611900 | program started
+2024-01-12T03:25:45.179606300 | login of registred user
+2024-01-12T03:29:46.109183800 | program started
+2024-01-12T03:29:52.454547100 | login of registred user
+2024-01-12T03:33:46.164872700 | program started
+2024-01-12T03:33:47.525404900 | login of registred user
+2024-01-12T03:35:46.624803100 | program started
+2024-01-12T03:35:48.816004700 | login of registred user
+2024-01-12T03:36:56.814219 | program started
+2024-01-12T03:36:59.914464900 | login of registred user
+2024-01-12T04:10:32.154979 | program started
+2024-01-12T04:10:34.631986400 | login of registred user
+2024-01-12T04:10:47.117146600 | user <id=0|kol> entered the system
+2024-01-12T04:10:58.052550400 | user <id=0|kol> entered mein menu
+2024-01-12T04:11:01.657942400 | user <id=0|kol> went to personal cabinet
+2024-01-12T04:11:41.602558 | user <id=0|kol> entered mein menu
+2024-01-12T04:11:44.389870400 | user <id=0|kol> went to personal cabinet
+2024-01-12T04:11:49.462228700 | user <id=0|kol> payed fine
+2024-01-12T10:04:41.865010500 | program started
+2024-01-12T10:04:45.142511700 | login of registred user
+2024-01-12T10:04:49.926782400 | Admin entered the system
+2024-01-12T10:32:16.767394800 | program started
+2024-01-12T10:32:24.416792700 | unregistered user is asked to be registred
+2024-01-12T10:32:26.550948200 | unregistered user agreed to be registred and start registration
+2024-01-12T10:32:35.675920 | new user <id=13|123456> successfully registred and entered the system
+2024-01-12T10:32:35.707435200 | user <id=13|123456> entered mein menu
+2024-01-12T10:32:40.829850900 | user <id=13|123456> went to searching books
+2024-01-12T10:32:44.504106 | user <id=13|123456> started searching by name
+2024-01-12T10:33:05.317767 | user <id=13|123456> entered mein menu
+2024-01-12T10:33:09.630416200 | user <id=13|123456> went to order book
+2024-01-12T10:33:20.765180600 | user <id=13|123456> went to catalog
+2024-01-12T10:33:20.804496900 | user <id=13|123456> started watching catalog
+2024-01-12T10:33:26.517211900 | user <id=13|123456> started watching catalog sorted by name
+2024-01-12T10:33:28.212494800 | user <id=13|123456> started watching catalog sorted by author
+2024-01-12T10:33:31.018406200 | user <id=13|123456> started watching catalog sorted by publication
+2024-01-12T10:33:49.683705400 | user <id=13|123456> gave bookId to order the book
+2024-01-12T10:33:52.441834400 | user <id=13|123456> created order successfully
+2024-02-13T10:45:03.441081 | program started
+2024-02-13T10:45:06.424402800 | login of registred user
+2024-02-13T10:45:11.547483600 | Admin entered the system

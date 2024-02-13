@@ -1,0 +1,56 @@
+---start---
+id=0
+name=Harry Potter 1
+author=J.K.Rowling
+publication=Charch
+dateOfPublication=0000-01-01
+numberOfCopy=13
+---end---
+---start---
+id=1
+name=Harry Potter and the Chamber of Secrets
+author=J.K.Rowling
+publication=BCharch
+dateOfPublication=0000-01-01
+numberOfCopy=1
+---end---
+---start---
+id=2
+name=Harry Potter and the Prisoner of Azkaban
+author=None
+publication=Charch
+dateOfPublication=0000-01-03
+numberOfCopy=1
+---end---
+---start---
+id=3
+name=Harry Potter and the Goblet of Fire
+author=None
+publication=ACharch
+dateOfPublication=0023-01-01
+numberOfCopy=1
+---end---
+---start---
+id=4
+name=Harry Potter and the Order of the Phoenix
+author=None
+publication=Charch
+dateOfPublication=0001-01-01
+numberOfCopy=1
+---end---
+---start---
+id=5
+name=Warlock in Magus world
+author=Plagiarist
+publication=2017-01-12
+dateOfPublication=2017-01-12
+numberOfCopy=19
+---end---
+---start---
+id=6
+name=wref
+author=werf
+publication=werf
+dateOfPublication=1111-11-11
+numberOfCopy=4
+---end---
